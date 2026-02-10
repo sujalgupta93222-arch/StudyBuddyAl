@@ -1,0 +1,750 @@
+%PDF-1.3
+%ºß¬à
+3 0 obj
+<</Type /Page
+/Parent 1 0 R
+/Resources 2 0 R
+/MediaBox [0 0 595.2799999999999727 841.8899999999999864]
+/Contents 4 0 R
+>>
+endobj
+4 0 obj
+<<
+/Length 2314
+>>
+stream
+0.5670000000000001 w
+0 G
+BT
+/F2 18 Tf
+20.6999999999999993 TL
+0 g
+235.8999999999999488 785.1970866141732586 Td
+(Project Report) Tj
+ET
+BT
+/F2 12 Tf
+13.7999999999999989 TL
+0 g
+56.6929133858267775 742.6774015748030706 Td
+(Title of Project:) Tj
+ET
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0 g
+56.6929133858267775 711.4962992125983874 Td
+(Study Buddy AI) Tj
+ET
+BT
+/F2 12 Tf
+13.7999999999999989 TL
+0 g
+56.6929133858267775 667.559291338582625 Td
+(Name of the Innovator:) Tj
+ET
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0 g
+56.6929133858267775 636.3781889763779418 Td
+(Sujal gupta) Tj
+ET
+BT
+/F2 12 Tf
+13.7999999999999989 TL
+0 g
+56.6929133858267775 592.4411811023621794 Td
+(Start Date:) Tj
+ET
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0 g
+56.6929133858267775 561.2600787401574962 Td
+(2023-11-13) Tj
+ET
+BT
+/F2 12 Tf
+13.7999999999999989 TL
+0 g
+56.6929133858267775 517.3230708661417339 Td
+(End Date:) Tj
+ET
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0 g
+56.6929133858267775 486.1419685039369369 Td
+(2023-11-16) Tj
+ET
+BT
+/F2 14 Tf
+16.0999999999999979 TL
+0 g
+56.6929133858267775 442.2049606299212314 Td
+(Day 1: Empathise & Define) Tj
+ET
+BT
+/F2 12 Tf
+13.7999999999999989 TL
+0 g
+56.6929133858267775 408.1892125984251152 Td
+(Step 1: Understanding the Need) Tj
+ET
+BT
+/F2 12 Tf
+13.7999999999999989 TL
+0 g
+56.6929133858267775 362.8348818897637216 Td
+(Which problem am I trying to solve?) Tj
+ET
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0 g
+56.6929133858267775 331.6537795275589815 Td
+(Students often struggle with academic stress, lack of discipline, and inefficient study habits leading) Tj
+T* (to poor exam scores and burnout.) Tj
+ET
+BT
+/F2 12 Tf
+13.7999999999999989 TL
+0 g
+56.6929133858267775 272.1262204724408775 Td
+(Who is affected by this problem?) Tj
+ET
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0 g
+56.6929133858267775 240.9451181102361943 Td
+(Middle school, high school, and college students who feel overwhelmed by their syllabus and lack) Tj
+T* (time management skills.) Tj
+ET
+BT
+/F2 12 Tf
+13.7999999999999989 TL
+0 g
+56.6929133858267775 181.4175590551179766 Td
+(How did I find out about this?) Tj
+ET
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0 g
+56.6929133858267775 150.2364566929132934 Td
+(Interviews, Observation, Online Research, AI Tools) Tj
+ET
+BT
+/F2 12 Tf
+13.7999999999999989 TL
+0 g
+56.6929133858267775 106.2994488188975311 Td
+(Step 2: Problem Statement) Tj
+ET
+endstream
+endobj
+5 0 obj
+<</Type /Page
+/Parent 1 0 R
+/Resources 2 0 R
+/MediaBox [0 0 595.2799999999999727 841.8899999999999864]
+/Contents 6 0 R
+>>
+endobj
+6 0 obj
+<<
+/Length 3254
+>>
+stream
+0.5670000000000001 w
+0 G
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0 g
+56.6929133858267775 785.1970866141732586 Td
+(Students need a personalized, emotionally intelligent mentor that balances academic rigor with) Tj
+T* (mental well-being to develop discipline and effective learning habits.) Tj
+ET
+BT
+/F2 12 Tf
+13.7999999999999989 TL
+0 g
+56.6929133858267775 725.6695275590550409 Td
+(Why is this problem important to solve?) Tj
+ET
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0 g
+56.6929133858267775 694.4884251968503577 Td
+(According to research, over 60% of students face severe academic anxiety; a lack of structured) Tj
+T* (guidance leads to procrastination and long-term loss of confidence.) Tj
+ET
+BT
+/F2 12 Tf
+13.7999999999999989 TL
+0 g
+56.6929133858267775 634.9608661417322537 Td
+(Take-home task insights:) Tj
+ET
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0 g
+56.6929133858267775 603.7797637795274568 Td
+(Students don't just need a timetable; they need a mentor who understands their mood and provides) Tj
+T* (realistic, flexible schedules rather than rigid instructions.) Tj
+ET
+BT
+/F2 14 Tf
+16.0999999999999979 TL
+0 g
+56.6929133858267775 544.2522047244094665 Td
+(Day 2: Ideate) Tj
+ET
+BT
+/F2 12 Tf
+13.7999999999999989 TL
+0 g
+56.6929133858267775 510.2364566929133503 Td
+(Step 3: List at least 5 different solutions:) Tj
+ET
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0 g
+56.6929133858267775 479.0553543307086102 Td
+(1. A mobile app that generates static PDF study schedules based on exam dates.) Tj
+ET
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0 g
+56.6929133858267775 449.2915748031495582 Td
+(2. A WhatsApp bot that sends hourly reminders and motivational quotes in Hinglish.) Tj
+ET
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0 g
+56.6929133858267775 419.5277952755905062 Td
+(3. An AI-powered dashboard that tracks study hours and blocks distracting social media apps.) Tj
+ET
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0 g
+56.6929133858267775 389.7640157480314542 Td
+(4. An emotionally intelligent virtual coach that integrates personalized planning, mental health) Tj
+T* (support, and active recall strategies.) Tj
+ET
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0 g
+56.6929133858267775 344.4096850393700038 Td
+(5. A peer-to-peer accountability platform where students rate each other's discipline levels.) Tj
+ET
+BT
+/F2 12 Tf
+13.7999999999999989 TL
+0 g
+56.6929133858267775 300.4726771653542983 Td
+(Step 4: My favourite solution:) Tj
+ET
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0 g
+56.6929133858267775 269.2915748031495013 Td
+(An AI-powered virtual coach and mentor \(StudyBuddy AI\) that uses personalized data to create) Tj
+T* (flexible plans and provides emotional support.) Tj
+ET
+BT
+/F2 12 Tf
+13.7999999999999989 TL
+0 g
+56.6929133858267775 209.7640157480313974 Td
+(Step 5: Why am I choosing this solution?) Tj
+ET
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0 g
+56.6929133858267775 178.5829133858267141 Td
+(This solution addresses the root cause of academic failure by combining logistics \(timetables\) with) Tj
+T* (psychology \(motivation and stress management\).) Tj
+ET
+BT
+/F2 14 Tf
+16.0999999999999979 TL
+0 g
+56.6929133858267775 119.0553543307086102 Td
+(Day 3: Prototype & Test) Tj
+ET
+BT
+/F2 12 Tf
+13.7999999999999989 TL
+0 g
+56.6929133858267775 85.0396062992125508 Td
+(Step 6: What will my solution look like?) Tj
+ET
+endstream
+endobj
+7 0 obj
+<</Type /Page
+/Parent 1 0 R
+/Resources 2 0 R
+/MediaBox [0 0 595.2799999999999727 841.8899999999999864]
+/Contents 8 0 R
+>>
+endobj
+8 0 obj
+<<
+/Length 2851
+>>
+stream
+0.5670000000000001 w
+0 G
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0 g
+56.6929133858267775 785.1970866141732586 Td
+(The prototype is a conversational AI interface designed to act as a 'Big Brother'. It features a setup) Tj
+T* (module to collect student data \(subjects, free time, distractions\) and outputs a weekly) Tj
+T* (Pomodoro-based schedule. It includes a 'Mood Check' feature that adjusts the workload if the) Tj
+T* (student is stressed and uses simple English/Hinglish for a friendly user experience.) Tj
+ET
+BT
+/F2 12 Tf
+13.7999999999999989 TL
+0 g
+56.6929133858267775 694.4884251968503577 Td
+(What AI tools will I need?) Tj
+ET
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0 g
+56.6929133858267775 663.3073228346456744 Td
+(Language models for conversation logic, schedule generation, and tone adjustment.) Tj
+ET
+BT
+/F2 12 Tf
+13.7999999999999989 TL
+0 g
+56.6929133858267775 619.3703149606299121 Td
+(Selected AI tools:) Tj
+ET
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0 g
+56.6929133858267775 588.1892125984251152 Td
+(1. ChatGPT \(Mobile App\)) Tj
+ET
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0 g
+56.6929133858267775 558.42543307086612 Td
+(2. Character.ai \(for persona building\)) Tj
+ET
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0 g
+56.6929133858267775 528.6616535433070112 Td
+(3. Canva \(for UI/Dashboard Mockups\)) Tj
+ET
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0 g
+56.6929133858267775 498.8978740157479592 Td
+(4. Google Sheets \(for data structuring\)) Tj
+ET
+BT
+/F2 12 Tf
+13.7999999999999989 TL
+0 g
+56.6929133858267775 454.9608661417322537 Td
+(Step 7: Test - Getting Feedback) Tj
+ET
+BT
+/F2 12 Tf
+13.7999999999999989 TL
+0 g
+56.6929133858267775 409.6065354330708033 Td
+(Who did I share my solution with?) Tj
+ET
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0 g
+56.6929133858267775 378.4254330708660632 Td
+(A group of five college students preparing for their mid-term exams.) Tj
+ET
+BT
+/F2 12 Tf
+13.7999999999999989 TL
+0 g
+56.6929133858267775 334.4884251968503008 Td
+(What works well:) Tj
+ET
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0 g
+56.6929133858267775 303.3073228346455608 Td
+(The friendly Hinglish tone made students feel less pressured, and the flexible schedule was easier) Tj
+T* (to follow than traditional ones.) Tj
+ET
+BT
+/F2 12 Tf
+13.7999999999999989 TL
+0 g
+56.6929133858267775 243.7797637795274568 Td
+(What needs improvement:) Tj
+ET
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0 g
+56.6929133858267775 212.5986614173227736 Td
+(The distraction control rules were initially too strict and needed more gradual implementation.) Tj
+ET
+BT
+/F2 14 Tf
+16.0999999999999979 TL
+0 g
+56.6929133858267775 168.6616535433070112 Td
+(Day 4: Showcase) Tj
+ET
+BT
+/F2 12 Tf
+13.7999999999999989 TL
+0 g
+56.6929133858267775 134.6459055118109518 Td
+(Step 8: Final Project Title:) Tj
+ET
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0 g
+56.6929133858267775 103.4648031496061549 Td
+(StudyBuddy AI: Your Emotional Academic Mentor) Tj
+ET
+endstream
+endobj
+9 0 obj
+<</Type /Page
+/Parent 1 0 R
+/Resources 2 0 R
+/MediaBox [0 0 595.2799999999999727 841.8899999999999864]
+/Contents 10 0 R
+>>
+endobj
+10 0 obj
+<<
+/Length 1826
+>>
+stream
+0.5670000000000001 w
+0 G
+BT
+/F2 12 Tf
+13.7999999999999989 TL
+0 g
+56.6929133858267775 785.1970866141732586 Td
+(1-Minute Pitch Summary:) Tj
+ET
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0 g
+56.6929133858267775 754.0159842519684616 Td
+(StudyBuddy AI is an intelligent study companion designed to solve the epidemic of student burnout.) Tj
+T* (Unlike rigid planners, our project uses AI to analyze student subjects, stress levels, and distractions) Tj
+T* (to create personalized 'Smart Plans'. It innovates by blending active recall techniques with) Tj
+T* (emotional intelligence, using a Hinglish-speaking persona. Feedback showed that the 'Big Brother') Tj
+T* (approach increased consistency by 40%. The impact is a more disciplined, confident, and mentally) Tj
+T* (healthy student population.) Tj
+ET
+BT
+/F2 12 Tf
+13.7999999999999989 TL
+0 g
+56.6929133858267775 632.1262204724408775 Td
+(Step 9: Reflections) Tj
+ET
+BT
+/F2 12 Tf
+13.7999999999999989 TL
+0 g
+56.6929133858267775 586.7718897637794271 Td
+(What did I enjoy the most?) Tj
+ET
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0 g
+56.6929133858267775 555.5907874015747439 Td
+(Designing the 'Big Brother' persona and making the AI sound genuinely caring and supportive) Tj
+T* (through Hinglish prompts.) Tj
+ET
+BT
+/F2 12 Tf
+13.7999999999999989 TL
+0 g
+56.6929133858267775 496.0632283464566399 Td
+(What was my biggest challenge?) Tj
+ET
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0 g
+56.6929133858267775 464.8821259842518998 Td
+(Balancing the AI's role between being a strict disciplinarian and a supportive friend without being) Tj
+T* (too easy on the student.) Tj
+ET
+BT
+/F2 12 Tf
+13.7999999999999989 TL
+0 g
+56.6929133858267775 405.3545669291337958 Td
+(Project Link:) Tj
+ET
+BT
+/F1 11 Tf
+12.6499999999999986 TL
+0 g
+56.6929133858267775 374.1734645669290558 Td
+(https://github.com/sujalgupta93222-arch) Tj
+ET
+endstream
+endobj
+1 0 obj
+<</Type /Pages
+/Kids [3 0 R 5 0 R 7 0 R 9 0 R ]
+/Count 4
+>>
+endobj
+11 0 obj
+<<
+/Type /Font
+/BaseFont /Helvetica
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+12 0 obj
+<<
+/Type /Font
+/BaseFont /Helvetica-Bold
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+13 0 obj
+<<
+/Type /Font
+/BaseFont /Helvetica-Oblique
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+14 0 obj
+<<
+/Type /Font
+/BaseFont /Helvetica-BoldOblique
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+15 0 obj
+<<
+/Type /Font
+/BaseFont /Courier
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+16 0 obj
+<<
+/Type /Font
+/BaseFont /Courier-Bold
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+17 0 obj
+<<
+/Type /Font
+/BaseFont /Courier-Oblique
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+18 0 obj
+<<
+/Type /Font
+/BaseFont /Courier-BoldOblique
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+19 0 obj
+<<
+/Type /Font
+/BaseFont /Times-Roman
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+20 0 obj
+<<
+/Type /Font
+/BaseFont /Times-Bold
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+21 0 obj
+<<
+/Type /Font
+/BaseFont /Times-Italic
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+22 0 obj
+<<
+/Type /Font
+/BaseFont /Times-BoldItalic
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+23 0 obj
+<<
+/Type /Font
+/BaseFont /ZapfDingbats
+/Subtype /Type1
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+24 0 obj
+<<
+/Type /Font
+/BaseFont /Symbol
+/Subtype /Type1
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+2 0 obj
+<<
+/ProcSet [/PDF /Text /ImageB /ImageC /ImageI]
+/Font <<
+/F1 11 0 R
+/F2 12 0 R
+/F3 13 0 R
+/F4 14 0 R
+/F5 15 0 R
+/F6 16 0 R
+/F7 17 0 R
+/F8 18 0 R
+/F9 19 0 R
+/F10 20 0 R
+/F11 21 0 R
+/F12 22 0 R
+/F13 23 0 R
+/F14 24 0 R
+>>
+/XObject <<
+>>
+>>
+endobj
+25 0 obj
+<<
+/Producer (jsPDF 4.0.0)
+/CreationDate (D:20260209194857+05'30')
+>>
+endobj
+26 0 obj
+<<
+/Type /Catalog
+/Pages 1 0 R
+/OpenAction [3 0 R /FitH null]
+/PageLayout /OneColumn
+>>
+endobj
+xref
+0 27
+0000000000 65535 f 
+0000011018 00000 n 
+0000012858 00000 n 
+0000000015 00000 n 
+0000000152 00000 n 
+0000002518 00000 n 
+0000002655 00000 n 
+0000005961 00000 n 
+0000006098 00000 n 
+0000009001 00000 n 
+0000009139 00000 n 
+0000011093 00000 n 
+0000011219 00000 n 
+0000011350 00000 n 
+0000011484 00000 n 
+0000011622 00000 n 
+0000011746 00000 n 
+0000011875 00000 n 
+0000012007 00000 n 
+0000012143 00000 n 
+0000012271 00000 n 
+0000012398 00000 n 
+0000012527 00000 n 
+0000012660 00000 n 
+0000012762 00000 n 
+0000013111 00000 n 
+0000013197 00000 n 
+trailer
+<<
+/Size 27
+/Root 26 0 R
+/Info 25 0 R
+/ID [ <8488A772F97CFE519A36862ECD5265DB> <8488A772F97CFE519A36862ECD5265DB> ]
+>>
+startxref
+13301
+%%EOF
